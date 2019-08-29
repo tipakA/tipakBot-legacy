@@ -1,0 +1,23 @@
+{
+  "name": "tipakbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tipakBot.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^8.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipakA/tipakBot.git"
+  },
+  "author": "tipakA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tipakA/tipakBot/issues"
+  },
+  "homepage": "https://github.com/tipakA/tipakBot#readme"
+}
